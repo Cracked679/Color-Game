@@ -4,9 +4,12 @@
 
 ## Description
 This is Simple color guessing game created using HTML,CSS,jQuery,DOM.
-- Do Visit : https://circles-game.netlify.app
+- Do Visit : https://guessthecolorr.netlify.app
 - Topics
   - html5, js, css3, DOM, jQuery
+
+### Preview
+![alt text](rec-min.gif "GIF Image")
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
